@@ -1,4 +1,4 @@
-3楼# skip
+# skip
 # 链接跳转
 The website used to avoid QQ contains malicious links, which causes the website to be blocked.
 
@@ -6,5 +6,6 @@ The website used to avoid QQ contains malicious links, which causes the website 
 # Jump table
 # 跳转对比表
 |原链接|跳转链|
-|-----|-----|
+|------|------|
 |[hh2022.cn](http://hh2022.cn)|[cnbilinyj.github.io/skip/hh2022.cn.html](https://cnbilinyj.github.io/skip/hh2022.cn.html)|
+|------|------|
